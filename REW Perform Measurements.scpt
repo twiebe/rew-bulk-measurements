@@ -52,7 +52,7 @@
 
 -- CONFIGURATION
 set channels to {"L", "R", "C", "LFE", "SL", "SR"}
-set measurement_duration to 5
+set measurement_duration to 20
 
 -- SCRIPT
 set suffix to display dialog "Suffix for measurement naming" default answer ""
